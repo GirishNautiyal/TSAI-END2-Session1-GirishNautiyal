@@ -3,13 +3,13 @@ TSAI-END-Session1 Assignment by Girish Nautiyal
 
 
 
-This repository is for session 1 assignment on the basics of Neural Networks. This contains Jupyter Notebbok of the practice code. Also, below are some of the basic concepts of the Neural Networks:
+This repository is for session 1 assignment on the basics of Neural Networks. This contains Jupyter Notebook of the practice code. Also, below are some of the basic concepts of the Neural Networks:
 
 ### Problem Statement
 
 1. What is a neural network neuron?  
 
-**Ans:** A nueron is a point of information in the Neural Netowrk. It contains the information that has been propogated till that point.
+**Ans:** A neuron is a point of information in the Neural Network. It contains the information that has been propagated till that point.
 
 2. What is the use of the learning rate?  
 
@@ -21,8 +21,8 @@ This repository is for session 1 assignment on the basics of Neural Networks. Th
 
 4. What is "loss" in a neural network?  
 
-**Ans:** The loss is what we typically call the error in prediction of an algorithm. In Neural Network also, we try to minimize the loss using a loss fucntion so that our model is as accurate as possible
+**Ans:** The loss is what we typically call the error in prediction of an algorithm. In Neural Network also, we try to minimize the loss using a loss function so that our model is as accurate as possible
 
 5. What is the "chain rule" in gradient flow?  
 
-**Ans:** The chain rule in gradient flow comes into play when we need the derivative of an expression consisting of multiple expressions. It helps us by taking derivative of an expression into the next stage and so on. Thus we keep calculating derivatives at each stage of the network propogation
+**Ans:** The chain rule in gradient flow comes into play when we need the derivative of an expression consisting of multiple expressions. It helps us by taking derivative of an expression into the next stage and so on. Thus we keep calculating derivatives at each stage of the network propagation
